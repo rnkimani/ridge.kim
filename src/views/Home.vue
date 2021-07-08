@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import Content from "@/components/Content";
+import Content from '@/components/Content'
 export default {
-  name: "Home",
-  components: { Content },
-};
+  name: 'Home',
+  components: { Content }
+}
 </script>

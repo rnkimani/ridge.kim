@@ -33,8 +33,8 @@
 
 <script>
 export default {
-  name: "ContentImage",
-};
+  name: 'ContentImage'
+}
 </script>
 
 <style scoped></style>

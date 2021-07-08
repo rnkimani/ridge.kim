@@ -136,9 +136,9 @@
 <script>
 import ContentImage from '@/components/ContentImage'
 export default {
-  name: "Content",
-  components: { ContentImage },
-};
+  name: 'Content',
+  components: { ContentImage }
+}
 </script>
 
 <style scoped></style>
