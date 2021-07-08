@@ -1,0 +1,254 @@
+GoBrands, Inc. (DBA GoPuff)brand icon
+Pennsylvania, United States
+
+Jul 2019 - Apr 2021 · 1.7 yrs
+
+Freight & Logistics Services
+
+1000 employees
+
+Senior Software Engineer (Full time)
+Edit
+GoPuff is a billion-dollar e-commerce company that deals with fast-moving products and fast delivery to its customers. I got to interact with different parts of the system, which includes cart, checkout and fulfilment, driver experience and warehousing. I was also leading an Andela team that continuously got better and successful in their work and performance which lead to having upsells. I also got to interact with external teams from Ukraine and the in-house dev team in driver experience and warehousing. I grew my skills in data engineering since we were dealing with huge and lots of data.
+Accomplishments
+1. Successfully led the Andela team in delivering a customer fulfillment experience. Customers needed a way to get CTAs on their checkout before they were delivered to them. We created an experience using SignalR that could track real-time events on their order shipment status quo.
+2. Integrating a new driver partnership experience. Since it was moving to be an external service called Fountain, we had to make sure that we can synchronize the existing drivers to the new system and create webhooks for hire accounts. This was through service buses and queue triggers to do accurate data syncs.
+Skills, Tools, & Specializations
+Postman
+SQL
+CSS
+Big Data
+Vue.js
+Cypress
+Mocha
+Jest
+TypeScript
+Express.js
+Redis
+PostgreSQL
+REST
+Extensible Markup Language (XML)
+GitHub
+Data Visualization
+Terraform
+Azure (Microsoft Azure)
+Lighthouse
+Tappable
+Brussels, Belgium
+
+Dec 2019 - Mar 2021 · 1.3 yrs
+
+Marketing & Advertising, Media & Entertainment
+
+11-50 employees
+
+Senior Software Engineer (Part time)
+Edit
+Tappable uses Accelerated Mobile Pages (AMP) to deliver story experiences, similar to WhatsApp stories, for the web. To achieve this, we built a web app that users could interact with to create the stories, customize and publish on the web. We also created custom integrations for the mobile embeds using flutter and also custom web components using svelte so that our customers can easily embed their stories in their websites. We also created a fact-checker experience for stories that are related to COVID to help in curbing misinformation and myths associated with the virus.
+Accomplishments
+1. Built a story builder tool. The web tool that we created enabled users to create a custom story experience using drag and drop and other properties like embedding questionnaires.
+2. Worked on story-mobile integrations. The mobile integrations were meant to ensure that users could be able to embed stories in mobile applications.
+3. Provisioning custom web components to our customers. Users who publish stories using the tool could integrate into their sites with a custom experience.
+4. I created a video resizer tool that could help users fit videos in different aspect ratios.
+Skills, Tools, & Specializations
+Asana
+Jest
+LambdaTest
+Cypress
+Terraform
+CSS
+GCP (Google Cloud Platform)
+Firebase
+Flutter
+Vue.js
+Lighthouse
+Lean Toolkit
+Amsterdam, Netherlands
+
+May 2019 - Oct 2020 · 1.4 yrs
+
+B2B [SaaS], B2C [SaaS]
+
+11-50 employees
+
+Senior Software Engineer (Part time)
+Edit
+Leantoolkit collaborates with big companies to help them manage big product management on a customer level. This was done through integrations with Typeform and WhatsApp which created customer traction and analytical data on how product launch is happening. This enabled us to create machine learning models and predictions of success probabilities and provided graphical data for the companies via the tool. Scheduled reporting was also being done through mail and our customers were able to create their own subscriptions with their own preferences.
+Accomplishments
+1. Typeform and WhatsApp integrations. We were tracking user data through the questionnaires and the WhatsApp group conversations that people were having in relation to the product. Using Amazon comprehend we were able to read and analyze the text to understand how the product is performing.
+2. Data analysis and predictions. We visualized the data using D3 js and used Scikit-learn to do supervised learning to create accurate predictions of how the product is going to perform.
+3. Tool reporting. The reports created were tied to customer interest and customization.
+Skills, Tools, & Specializations
+Python
+Machine Learning
+React.js
+GitLab
+Django REST Framework (DRF)
+Heroku
+Django
+AWS (Amazon Web Services)
+Fuigo LLCbrand icon
+New York, United States
+
+Nov 2018 - Jul 2019 · 8 mo
+
+Technology
+
+20 employees
+
+Software Engineer (Full time)
+Edit
+Fuigo curated professional interior designers by giving them a platform that enabled them to get office space, building materials, and project management of their design work. The project management tool that was there in place helped designers track, work, and create invoices for their clients. During my time there we created a marketplace where they could sell their products easily and advertise them on our site. With the growing architecture, we also had to do a migration from Heroku to AWS to curb the growing cost of the services. The UI design was been followed to the latter.
+Accomplishments
+1. Checkout experience using stripe payments. We successfully integrated payments to our service using stripe and checkouts were safe and non-fraudulent.
+2. A catalog management service. This service contained a catalog of all products that were listed on the site and it also helped in creating fuzzy logic for the product search.
+3. Migration from Heroku to AWS. Since we were having a marketplace and a project management tool it became too expensive to use Heroku deployment and pipelines and therefore we had to move the architecture to AWS. We saw a reduced cost of about 25% .
+Skills, Tools, & Specializations
+S3 (AWS)
+Vue.js
+Express.js
+MongoDB
+AWS (Amazon Web Services)
+Node.js
+CSS
+Heroku
+Ruby
+Overviewbrand icon
+Brussels, Belgium
+
+Apr 2018 - Oct 2018 · 7 mo
+
+10 employees
+
+Software Engineer (Full time)
+Edit
+Overview Technologies was a Belgium based company interested in telecommunication services in Kenya. We had a mobile application that helped users track all their financial transactions to have a better understanding of their flow of money. During this time we created a bot service that users could compare different service subscribers and get the best fit for their product needs. The needs were airtime and data bundles.
+Accomplishments
+1. Boost:- This was the tool that gave real time analysis of how our customers were transacting using the bot service. Using ANT Design, we created a dashboard that contained a graphical analysis of whatever was happening. I also collaborated with the ANT team on GitHub to create issues that were in the UI since the utility was pretty new when using it.
+2. Bot Service. The architecture of the bot service employed the use of google pubsub events to provide real-time messaging events from the bot to analyze the different consumer needs.
+Skills, Tools, & Specializations
+Asana
+Vue.js
+Lighthouse
+React Native
+React.js
+Firebase
+GCP (Google Cloud Platform)
+CSS
+Ikhlas Software
+Dhaka, Bangladesh
+
+May 2017 - Oct 2017 · 5 mo
+
+Food & Beverage
+
+11-50 employees
+
+Software Engineer (Contract)
+Edit
+During my time here I collaborated in delivering a product that helped Muslims track places where they can get cuisines at different times of their cultural and religious celebrations. The product was called Halal Tracker and it employed the google API to map restaurant services that are already providing Halal foods and at the same time giving users an API for them to add new halal products and services.
+Accomplishments
+Redesign of the product. My main contract was to redesign the whole project to a newer codebase. The project was using Python 2.7 and Django 1.5 and my task was to update the architecture to python 3 and Django 1.9. The API design also was to be improved to ensure that it follows the REST architecture and so I used the Django rest framework for this.
+The frontend needed a revamp and I successfully updated it to use jQuery and AJAX for API calls. I also documented the various API endpoints that were to be consumed by 3rd party vendors.
+Skills, Tools, & Specializations
+Django
+Python
+Django REST Framework (DRF)
+Creawib
+Nairobi, Kenya
+
+Jan 2016 - Jul 2017 · 1.6 yrs
+
+B2B [SaaS]
+
+1-10 employees
+
+Software Engineer (Full time)
+Edit
+At creawib, we used to get contracts from individuals and organizations that required software products tailored to their needs. At this time we created an integration with an insurance agency to help them manage insurance services online. Using Africastalking SMS gateway we created a service called SMSLite that helped the agency to integrate an offline software experience online. Therefore things like billing reminders were being handled online but at the same time this data was being fetched offline.
+Accomplishments
+1. SMSLite:- This software was an integration for an offline software called Birthmark with we employed the use of RabbitMQ as a message broker for the services that were required to be sent to SMSLite. With this automation, a lot of paperwork was reduced since insurance holders weren't receiving letters but rather SMSes for any service that required communication.
+2. Kejani:- Kejani is Swahili for home and with this web app we were connecting people to their dream houses. With a search experience and house listings, we provided users with the opportunity to manage houses better.
+Skills, Tools, & Specializations
+DigitalOcean
+Nginx
+Bitbucket
+Django
+Django REST Framework (DRF)
+MySQL
+PostgreSQL
+SQLAlchemy
+Python
+Elastic Search
+EDUCATION & LEARNING
++ Add new
+Dedan Kimathi University
+
+Nyeri , Kenya
+
+Jan 2015 - Aug 2017 · 3 yrs
+
+Bsc Information Technology in Technology
+Edit
+At the time of joining I had already accustomed myself to the IT field. I started practicing writing code on arduino and intel galileo devices at the same time started learning web development and joined tech groups to learn and write software and web systems.
+Certified Information Communication Technologist
+
+Nakuru , Kenya
+
+Nov 2014 - Dec 2015 · 1.1 yrs
+
+Diploma in IT
+Edit
+During this time I was able to learn low level languages like C and C++. At this time I only did programming on paper but I was able to write applications using visual basic and microsoft access. I developed my first hardware management system at that point in time.
+TECHNICAL PROJECTS
++ Add new
+Hall of famebrand icon
+Feb 2018 - Jun 2018 · 4 mo
+Hall of fame
+Edit
+Hall of fame curated all Andelans and show cased newest hires to help people identify and mingle with new people.
+
+React.Js
+React Native
+Python
+Flask
+Learning Mapbrand icon
+Nov 2017 - Feb 2018 · 4 mo
+Learning Map
+Edit
+Learning map was meant to create learning paths for Andelans at different levels.
+
+React.Js
+Node.Js
+TypeScript
+Python
+Flask
+PostgreSQL
+Wger Project
+Sep 2017 - Nov 2017 · 3 mo
+Wger Project
+Edit
+Workout Manager is a free, open source web application that help you manage your personal workouts, weight and diet plans and can also be used as a simple gym management utility.
+
+Python
+Django
+JavaScript
+Health Checks
+Jul 2017 - Sep 2017 · 3 mo
+Health Checks
+Edit
+Healthchecks is a cron job monitoring service
+
+Python
+Django
+JavaScript
+Lecturer Evaluation System
+Jul 2015 - Dec 2015 · 5 mo
+Lecturer Evaluation System
+Edit
+In Campus I was part of a team that created a tool which students were able to evaluate and give feedback to lecturers based on their learning experience per semester.
+
+Python
+Django
+JavaScript
+Last updated on Jul 07, 2021 by Ridge Kimani
